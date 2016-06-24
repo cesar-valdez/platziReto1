@@ -31,8 +31,6 @@ figure{margin: 0;}
 
 .principal input{border-radius: 4px; border: 0; margin:6px 0; height: 25px;}
 
-.principal .cajaBuscar{background-color: #333333; display: inline-block; padding: 4px; margin:6px 0; border-radius: 4px;}
-
 /*seccion principal foto principal*/
 .principal{background-color: #efefef;}
 
@@ -46,18 +44,20 @@ figure{margin: 0;}
 
 .mensaje p{font-size: 9px; display: inline-block; padding-bottom: 20px;}
 
-.mensaje h2, p{padding: 20px; font-family: 'Montserrat', sans-serif; color: gray; margin: 0 15px;}
+.mensaje h2, p{padding: 20px; font-family: 'Montserrat', sans-serif; color: #515151; margin: 0 15px;}
 
 /*anuncios*/
 .anuncios{ display: flex; flex-wrap: wrap; justify-content: space-between;}
 
-.anuncio{margin-top: 20px;  }
+.anuncio{margin-top: 20px;}
 
-.anuncio span{ display: block; padding-bottom: 20px; border-bottom: 1px solid gray;}
+.anuncio span{ display: block; padding-bottom: 20px; border-bottom: 1px solid gray; color: #6a6a6a}
 
-.anuncio p {font-size: 10px; display: inline-block; margin: 3px 5px 3px 0  ; padding: 3px 5px 3px 0;}
+.anuncio p {font-size: 10px; display: inline-block; margin: 3px 5px 3px 0  ; padding: 3px 5px 3px 0; color: #6a6a6a}
 
 /*paginaciond el final*/
 .paginacion{display: flex; justify-content: flex-start; margin:30px 0 0 370px; padding-bottom: 50px; }
 
 .paginacion div{background-color: #eaeaea; margin-left: 15px; padding: 5px 8px; color: gray; font-size: 15px;}
+
+.paginacion span{color: gray;}

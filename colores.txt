@@ -34,9 +34,22 @@ gris del cuadro del inicio"consejos que aumentaran"
 #d8d3cc
 rgb(216,211,204)
 
+color del mensaje tranparente
+#515151
+rgb(81,81,81)
 
 color negro del buscador
 #333333
 rgb(51,51,51)
 
+
+color letra de anuncios 
+#6a6a6a
+rgb(106,106,106)
+
+
+
+color de letra de pagiacion
+#868686
+rgb(134,134,134)
 
