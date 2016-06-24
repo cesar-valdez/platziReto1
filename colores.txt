@@ -1,0 +1,42 @@
+bara verde del menu
+
+#7dcd40
+rgb(125,205,64)
+
+
+
+boton iniciar sesion rojo
+
+#ff4842
+rgb(255,72,66)
+
+
+
+barra del menu azul
+
+#273b47
+rgb(39,59,71)
+
+
+color gris de atras de la imagen 
+#efefef
+rgb(239,239,239)
+
+
+
+el gris de siguiente y de los numeros
+#eaeaea
+rgb(234,234,234)
+
+
+gris del cuadro del inicio"consejos que aumentaran"
+
+#d8d3cc
+rgb(216,211,204)
+
+
+color negro del buscador
+#333333
+rgb(51,51,51)
+
+
